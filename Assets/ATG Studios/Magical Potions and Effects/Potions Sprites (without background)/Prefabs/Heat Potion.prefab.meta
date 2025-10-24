@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26b0959d5401bec4aa428915333e3aa9
+timeCreated: 1622183406
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potions Sprites (without
+    background)/Prefabs/Heat Potion.prefab
+  uploadId: 442208

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49d6974d80f53684b8ff6875580ea1bb
+timeCreated: 1622183410
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potions Sprites (without
+    background)/Prefabs/Demon Potion.prefab
+  uploadId: 442208

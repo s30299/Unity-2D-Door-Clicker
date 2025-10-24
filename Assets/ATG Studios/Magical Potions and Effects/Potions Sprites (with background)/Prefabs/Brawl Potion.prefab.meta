@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21172b99149f96c46b94d66757e8ad14
+timeCreated: 1622430833
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potions Sprites (with
+    background)/Prefabs/Brawl Potion.prefab
+  uploadId: 442208

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 714228ad5e9990742957d6c7445e9116
+timeCreated: 1622267098
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potion Area Effects/Prefabs/Blood
+    Area Effect.prefab
+  uploadId: 442208

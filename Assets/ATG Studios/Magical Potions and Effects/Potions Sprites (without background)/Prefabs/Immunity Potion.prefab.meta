@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e190daebd6004dd45ae1353fd7ae3547
+timeCreated: 1622183402
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potions Sprites (without
+    background)/Prefabs/Immunity Potion.prefab
+  uploadId: 442208

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b2ec506d1f91204583551b636401423
+timeCreated: 1622276428
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196598
+  packageName: Magical Potions and Effects Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/ATG Studios/Magical Potions and Effects/Potion Area Effects/Prefabs/Demon
+    Area Effect.prefab
+  uploadId: 442208
